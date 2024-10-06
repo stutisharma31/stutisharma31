@@ -1,17 +1,17 @@
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241006T190057Z&X-Amz-Expires=300&X-Amz-Signature=65131a40551a370d799f17cede412c11f09cc90f91957a42e349d3dc17ef17ce&X-Amz-SignedHeaders=host" width="1000" height="300" alt="MasterHead" style="display: block; margin: auto;">
 
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Stuti Sharma</h1>
-<h3 align="center">Aspiring Software Developer| Final Year B.Tech CSE | AI & Full Stack Enthusiast</h3>
-<img align="right" alt="Coding" width="3" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
+<h3 align="center">Aspiring Software Developer | AI & Full Stack Enthusiast</h3>
+<img align="right" alt="Coding" width="300" src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stutisharma31&label=Profile%20views&color=0e75b6&style=flat" alt="stutisharma31" /> </p>
 
-- 🔭 I’m currently working on **AI in Agriculture Research|| Exploring how artificial intelligence can be used to improve crop yield prediction, disease detection, and smart farming techniques. Working on a research paper on AI-based Precision Agriculture**
+- 🔭 I’m currently working on **AI in Agriculture Research, focusing on crop yield prediction, disease detection, and smart farming techniques**
 
-- 🌱 I’m currently learning ****MERN Stack** for full stack development - **Advanced Machine Learning** for image processing and precision farming - Diving into frameworks like TensorFlow & PyTorch - **Data Structures & Algorithms** (focusing on problem-solving)**
+- 🌱 I’m currently learning **MERN Stack, Advanced Machine Learning (image processing), TensorFlow & PyTorch, and Data Structures & Algorithms**
 
-- 👯 I’m looking to collaborate on **AI-Based Livestock Monitoring System|| Collaborating with researchers and developers to create an IoT-based AI tool to monitor animal health and predict issues in livestock management**
+- 👯 I’m looking to collaborate on **AI-Based Livestock Monitoring System for IoT-based animal health monitoring**
 
-- 🤝 I’m looking for help with **Full Stack Web Applications (MERN Stack)|| I'm learning more about building scalable web applications and would love some insights on best practices for architecture and performance optimization**
+- 🤝 I’m looking for help with **Full Stack Web Applications (MERN Stack) for scalable web development best practices.**
 
 - 💬 Ask me about **Full Stack Web Development (React, Node.js, MongoDB)**
 
